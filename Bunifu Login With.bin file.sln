@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bunifu Login With.bin file", "Bunifu Login With.bin file\Bunifu Login With.bin file.csproj", "{F1DF8CCD-9DCC-4507-AD94-AF9A8DEEBA01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DF8CCD-9DCC-4507-AD94-AF9A8DEEBA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DF8CCD-9DCC-4507-AD94-AF9A8DEEBA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DF8CCD-9DCC-4507-AD94-AF9A8DEEBA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DF8CCD-9DCC-4507-AD94-AF9A8DEEBA01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1D76B75-8ECA-4A68-88DE-EF18E6C64451}
+	EndGlobalSection
+EndGlobal
